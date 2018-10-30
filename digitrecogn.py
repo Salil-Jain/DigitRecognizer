@@ -9,6 +9,8 @@ def dist(x,y):
 
 
 digits = datasets.load_digits()
+# The dataset has images of size 8 X 8
+
 # fig = plt.figure()
 # plt.subplot(221)
 # plt.imshow(digits.images[0],cmap = plt.cm.gray_r)
